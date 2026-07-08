@@ -1,2 +1,5 @@
+/db_data/*
 /secrets/*
+/initdb/*
+/www/*
 !/secrets/README.md
